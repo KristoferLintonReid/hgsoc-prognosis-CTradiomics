@@ -12,9 +12,10 @@ This repository contains the code and resources for the machine learning study f
 ![Overview Image](images/Overview.png)
 
 ## Features
-Segmentation Model and Code
-Overall Survival Model and Code
-Radiomics Model Code
+- Segmentation Model and Code
+- Overall Survival Model and Code
+- Radiomics Model Code
+
 
 ## Getting Started 
 
